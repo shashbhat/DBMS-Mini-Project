@@ -1,0 +1,16 @@
+div {
+    border: 3px solid #4CAF50;
+    padding: 5px;
+}
+
+.img1 {
+    float: right;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+.img2 {
+    float: right;
+}

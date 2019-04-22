@@ -1,0 +1,127 @@
+.login-page{
+    width: 360px;
+    padding: 10% 0 0;
+    margin: auto;
+}
+.form{
+    position: relative;
+    background: rgb(128,128,128,0.6);
+    max-width: 400px;
+    margin:0 auto 60px;
+    padding:20px;
+    text-align:center;
+}
+.form-input{
+    outline: 1;
+    background: #f2f2f2;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    box-sizing: border-box;
+    font-size:14px;
+}
+.button{
+    outline:0;
+    background:#C0C0C0
+    border-bottom-color: black;
+    border-left-color: black;
+    border-right-color: black;
+    border-top-color: black;
+    width:30%;
+    border: 0;
+    padding: 3px;
+    color:black;
+    font-size:14px;
+    cursor: pointer;
+}
+.button:hover {
+color: black;
+background:#A9A9A9;
+}
+.form1{
+    position: relative;
+    background: rgb(220,220,220,.4);
+    max-width: 400px;
+    margin:0 auto 60px;
+    padding:50px;
+    text-align:center;
+}
+td {
+  background-color:rgb(220,220,220,0.7);
+  text-align: center;
+}
+h2 {
+  color: white;
+    font-size: 50px;
+    background-color: rgb(105,105,105,0.5);
+}
+
+h1 {
+  color: black;
+    font-size: 50px;
+    background-color: rgb(192,192,192,0.7);
+}
+table.test td {
+    margin: 12px 12px 12px 12px;
+    padding: 12px 12px 12px 12px;
+}
+.form2{
+    position: relative;
+    background: rgb(128,128,128,0.4);
+    max-width: 400px;
+    margin:0 auto 60px;
+    padding:20px;
+    text-align:center;
+}
+.form2-input{
+    outline: 1;
+    background: #f2f2f2;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    box-sizing: border-box;
+    font-size:14px;
+}
+.btn{
+    outline:0;
+    background: rgb(105,105,105,0.5);
+    border-bottom-color: black;
+    border-left-color: black;
+    border-right-color: black;
+    border-top-color: black;
+    width:30%;
+    border: 0;
+    padding: 3px;
+    color:black;
+    font-size:14px;
+    cursor: pointer;
+}
+.btn:hover {
+color:black;
+background: rgb(192,192,192,0.7);
+}
+
+.bton {
+    background-color:#000033;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width:30%;
+    margin: 4px 2px;
+    position:relative;
+left:35%;
+right:35%;
+bottom:5%;
+top:60%;
+}
+.bton {border-radius: 12px;}
+.bton:hover {
+color:white;
+background:#000066;
+}
+
+
